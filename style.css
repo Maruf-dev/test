@@ -1,0 +1,10 @@
+li {
+    font-size: 1.5em;}
+    .hi {background-color: yellow;
+  }
+  .done {text-decoration: line-through;
+  }
+  .highlight {
+  background-color: yellow;
+  font-weight: bold;
+  color: red;}
